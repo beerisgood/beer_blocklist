@@ -10,5 +10,6 @@ but does not interfere with:
  - [x] it also fully respect [OISD whitelist](https://oisd.nl/excludes.php)
 
 
-    🍺 This particular list adds missing domains from various sources, and anyone can help, but always under the above conditions.
-    Sources are always added via comment in the respective commit, which keeps the list itself cleaner
+    🍺 This particular list adds missing domains from various sources, and anyone can help, but always under the above conditions.<br/>
+    Sources are always added via comment in the respective commit, which keeps the list itself cleaner<br/>
+    🍻 as an additional overview and transparency, a [source overview](https://github.com/beerisgood/beer_blocklist/blob/main/sources) is also provided
