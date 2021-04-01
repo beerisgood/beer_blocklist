@@ -1,4 +1,4 @@
-# This list is specially for [OISD](https://oisd.nl/)
+# [This list](https://raw.githubusercontent.com/beerisgood/beer_blocklist/main/list) is specially for [OISD](https://oisd.nl/)
 
 that means it will only block:
 
