@@ -1,4 +1,5 @@
 # [This list](https://raw.githubusercontent.com/beerisgood/beer_blocklist/main/list) is specially for [OISD](https://oisd.nl/)
+![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/beer_blocklist?label=last%20update%3A&style=for-the-badge)
 
 that means it will only block:
 
