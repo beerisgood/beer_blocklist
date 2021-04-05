@@ -1,4 +1,4 @@
-# [This list](https://raw.githubusercontent.com/beerisgood/beer_blocklist/main/list) is specially for [OISD](https://oisd.nl/)
+# 🍺[block list](https://raw.githubusercontent.com/beerisgood/beer_blocklist/main/list) - specialised for [OISD](https://oisd.nl/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/beer_blocklist?label=last%20update%3A&style=for-the-badge)
 
 that means it will only block:
@@ -11,6 +11,4 @@ but does not interfere with:
  - [x] it also fully respect [OISD whitelist](https://oisd.nl/excludes.php)
 
 
-    🍺 This particular list adds missing domains from various sources, and anyone can help, but always under the above conditions.<br/>
-    Sources are always added via comment in the respective commit, which keeps the list itself cleaner<br/>
-    🍻 as an additional overview and transparency, a [source overview](https://github.com/beerisgood/beer_blocklist/blob/main/sources) is also provided
+    🍻 This particular list adds missing domains from my own research, and anyone can help, but always under the above conditions.
